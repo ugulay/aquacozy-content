@@ -1,0 +1,106 @@
+{
+ "version": 1,
+ "updated": "2026-09-24",
+ "tracks": [],
+ "stations": [
+  {
+   "id": "coral_cafe",
+   "name": {
+    "en": "Coral Café",
+    "tr": "Mercan Kafe"
+   },
+   "about": {
+    "en": "A guitar in the corner and a slow beat.",
+    "tr": "Köşede bir gitar ve ağır bir ritim."
+   },
+   "bpm": 78,
+   "chords": "guitar",
+   "melody": 0.2,
+   "drums": "lofi",
+   "octave": -12,
+   "seed": 1101,
+   "progressions": [
+    [
+     "Am7",
+     "Dm7",
+     "G7",
+     "Cmaj7"
+    ],
+    [
+     "Fmaj7",
+     "Em7",
+     "Dm9",
+     "Cmaj7"
+    ],
+    [
+     "Ebmaj7",
+     "Dm7",
+     "Cm7",
+     "Bb6"
+    ]
+   ]
+  },
+  {
+   "id": "moon_jelly",
+   "name": {
+    "en": "Moon Jelly",
+    "tr": "Ay Denizanası"
+   },
+   "about": {
+    "en": "Drifting pads, very slow. For falling asleep.",
+    "tr": "Süzülen tınılar, çok yavaş. Uykuya dalmak için."
+   },
+   "bpm": 50,
+   "chords": "pad",
+   "melody": 0.08,
+   "drums": "none",
+   "octave": -12,
+   "seed": 1202,
+   "progressions": [
+    [
+     "Am9",
+     "Fmaj7",
+     "Cmaj7",
+     "Em7"
+    ],
+    [
+     "Fm9",
+     "Cm9",
+     "Ebmaj7",
+     "Bb6"
+    ]
+   ]
+  },
+  {
+   "id": "sunlit_shallows",
+   "name": {
+    "en": "Sunlit Shallows",
+    "tr": "Güneşli Sığlıklar"
+   },
+   "about": {
+    "en": "Bright bells over a brushed beat.",
+    "tr": "Fırçalı bir ritmin üstünde parlak çanlar."
+   },
+   "bpm": 100,
+   "chords": "arp",
+   "melody": 0.3,
+   "drums": "brush",
+   "octave": 0,
+   "seed": 1303,
+   "progressions": [
+    [
+     "Cmaj7",
+     "Fmaj7",
+     "Am7",
+     "G7"
+    ],
+    [
+     "Gmaj7",
+     "Cmaj7",
+     "Em7",
+     "Dm7"
+    ]
+   ]
+  }
+ ]
+}
